@@ -541,7 +541,7 @@ span.glyphicon.glyphicon-menu-right {
 .callbacks_nav.next {
     left: auto;
     background-position: right top;
-    left: 88.5%;
+    left: 79%;
 }
 .about-bottom h4{
     font-family: 'Hind Vadodara';
@@ -1296,7 +1296,7 @@ h2.hd{
         margin: 0;
     }
     .callbacks_nav.next {
-        left: 88.2%;
+        left: 78.2%;
     }
     .about-bottom {
         padding-bottom: 3em;
